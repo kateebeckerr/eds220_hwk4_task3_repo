@@ -1,1 +1,7 @@
-# eds220_hwk4_task3_repo
+
+# Homework 4 Task 3: Presentation Ready Repository
+
+Short explanation of the goal/purpose of the repository
+
+- Data citation
+
